@@ -1,5 +1,5 @@
 ﻿---
-title: 'Lync Server 2013: Información general sobre la preparación de los Servicios de dominio de Active Directory'
+title: "Lync Server 2013: Preparación de los Servicios de dominio de Active Directory"
 TOCTitle: Información general sobre la preparación de los Servicios de dominio de Active Directory
 ms:assetid: cdd2a652-6a0d-4728-9950-3fcaa7a80066
 ms:mtpsurl: https://technet.microsoft.com/es-es/library/Gg398869(v=OCS.15)

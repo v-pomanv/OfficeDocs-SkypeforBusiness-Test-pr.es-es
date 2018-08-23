@@ -1,5 +1,5 @@
 ﻿---
-title: 'Lync Server 2013: Resumen DNS - Servidor perimetral consolidado simple con direcciones IP públicas'
+title: "Resumen DNS - Servidor perimetral consolidado simple con direcciones IP públicas"
 TOCTitle: Resumen DNS - Servidor perimetral consolidado simple con direcciones IP públicas
 ms:assetid: 7b83eae4-aa1a-4cc6-8077-42176d56cab5
 ms:mtpsurl: https://technet.microsoft.com/es-es/library/JJ205025(v=OCS.15)
@@ -113,7 +113,7 @@ Puede configurar dos adaptadores de red en el servidor perimetral de la siguient
 </table>
 
 
-> [!WARNING]  
+> [!IMPORTANT]  
 > Los registros enumerados en la tabla anterior se muestran con una extensión <em>.net</em> o bien <em>.com</em> para resaltar en qué zona deben residir si no va a usar el DNS de cerebro dividido. Si va a usar el DNS de cerebro dividido, todos los registros estarían en la misma zona con la única distinción de si están en la versión interna o en la externa. Para ver más información, consulte &quot;DNS de cerebro dividido&quot; en <a href="lync-server-2013-determine-dns-requirements.md">Determinar los requisitos DNS para Lync Server 2013</a>.
 
 
@@ -144,7 +144,7 @@ Puede configurar dos adaptadores de red en el servidor perimetral de la siguient
 <td><p>Interfaz perimetral externa de acceso SIP Requerida para detección automática DNS de su federación a otros posibles socios de federación, que se conocen como “Dominios SIP permitidos” o &quot;federación ampliada&quot; en versiones anteriores). Repita según sea necesario para todos los dominios SIP con usuarios habilitados para Lync</p>
 <div>
 
-> [!WARNING]  
+> [!IMPORTANT]  
 > Este registro de SRV es necesario para fines de movilidad y para el centro de enrutamiento de notificaciones de inserción
 
 

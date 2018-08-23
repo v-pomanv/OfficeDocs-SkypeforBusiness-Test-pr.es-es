@@ -1,5 +1,5 @@
 ﻿---
-title: 'Lync Server 2013: Perímetro consolidado escalado, equilibrio de carga DNS con direcciones IP públicas'
+title: "Perímetro consolidado escalado, equilibrio de carga DNS con direcciones IP públicas"
 TOCTitle: Perímetro consolidado escalado, equilibrio de carga DNS con direcciones IP públicas
 ms:assetid: 2b854f6d-3d3f-4961-a5f8-a03f47740df0
 ms:mtpsurl: https://technet.microsoft.com/es-es/library/JJ204761(v=OCS.15)
@@ -33,7 +33,7 @@ Normalmente, los tipos de direcciones que utilizará para el direccionamiento IP
 
 Existen tecnologías de conversión de direcciones de red (NAT) para IPv6 que permitirán un NAT de IPv6 a IPv4 (normalmente denominado NAT64) y un NAT de IPv6 a IPv6 (normalmente denominado NAT66). La existencia de tecnologías NAT significa que los cinco escenarios presentados para Lync ServerServidores perimetrales siguen siendo válidos.
 
-> [!IMPORTANT]  
+> [!WARNING]  
 > IPv6 es un tema complejo y necesita una planeación cuidadosa con el equipo de redes y el proveedor de Internet para garantizar que las direcciones que asigna en el nivel de servidor de Windows y en el nivel de Lync Server 2013 funcionen tal como se esperaba. Vea los vínculos al final de este tema para consultar los recursos adicionales sobre la planeación de IPv6 y su direccionamiento.
 
 

@@ -1,5 +1,5 @@
 ﻿---
-title: 'Lync Server 2013: Resumen de DNS - Servidor perimetral consolidado ampliado, equilibrio de carga DNS con direcciones IP públicas'
+title: "Resumen DNS: Servidor perimetral consol. ampliado, equilib. carga DNS con IP públicas"
 TOCTitle: Resumen de DNS - Servidor perimetral consolidado ampliado, equilibrio de carga DNS con direcciones IP públicas
 ms:assetid: dc8f096a-a0a4-4f71-8930-88ff8fc089d9
 ms:mtpsurl: https://technet.microsoft.com/es-es/library/JJ205319(v=OCS.15)
@@ -156,7 +156,7 @@ Puede configurar dos adaptadores de red en cada servidor perimetral de la siguie
 <td><p>Interfaz externa del Servidor perimetral de acceso SIP. Necesaria para la detección automática DNS de su federación ante los posibles socios de federación. Conocida como “Dominios SIP permitidos” (denominado federación ampliada en versiones anteriores).</p>
 <div>
 
-> [!WARNING]  
+> [!IMPORTANT]  
 > Repita tantas veces como sea necesario para todos los dominios SIP con usuarios habilitados para Lync y clientes de Microsoft Lync Mobile que usen el Servicios de notificaciones de inserción o el Servicios de notificaciones de inserción de Apple
 
 

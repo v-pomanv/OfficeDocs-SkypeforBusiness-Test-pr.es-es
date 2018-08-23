@@ -1,5 +1,5 @@
 ﻿---
-title: 'Lync Server 2013: Configuración de la mensajería unificada en Microsoft Exchange Server para trabajar con Lync Server 2013'
+title: "Configuración de mensajería unificada en MS Exchange Server con Lync Server 2013"
 TOCTitle: Configuración de la mensajería unificada en Microsoft Exchange Server para trabajar con Lync Server 2013
 ms:assetid: 058da9c4-23af-4ddb-9f63-70133a8aafc6
 ms:mtpsurl: https://technet.microsoft.com/es-es/library/Gg398106(v=OCS.15)

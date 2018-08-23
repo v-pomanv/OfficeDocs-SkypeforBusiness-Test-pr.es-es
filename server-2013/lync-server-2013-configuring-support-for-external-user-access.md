@@ -1,5 +1,5 @@
 ﻿---
-title: 'Lync Server 2013: Configurar la compatibilidad para el acceso de usuarios externos'
+title: "Lync Server 2013: Configurar la compatibilidad para el acceso de usuarios externos"
 TOCTitle: Configurar la compatibilidad para el acceso de usuarios externos
 ms:assetid: f8424f8c-f965-4414-8485-30f07e10214a
 ms:mtpsurl: https://technet.microsoft.com/es-es/library/Gg413051(v=OCS.15)

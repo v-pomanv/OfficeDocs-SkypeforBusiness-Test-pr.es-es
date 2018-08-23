@@ -1,6 +1,6 @@
 ﻿---
-title: Configuración de Microsoft Lync Server 2013 para usar el almacén de contactos unificado
-TOCTitle: Configuración de Microsoft Lync Server 2013 para usar el almacén de contactos unificado
+title: "Configuración de MS Lync Server 2013 para usar el almacén de contactos unificado"
+TOCTitle: "Conf. de Microsoft Lync Server 2013 pour l’util. du magasin de contact unifié"
 ms:assetid: 6aa17ae3-764e-4986-a900-85a3cdb8c1fc
 ms:mtpsurl: https://technet.microsoft.com/es-es/library/JJ688083(v=OCS.15)
 ms:contentKeyID: 49889217

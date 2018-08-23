@@ -1,5 +1,5 @@
 ﻿---
-title: 'Lync Server 2013: Implementar un reflejo de SQL para alta disponibilidad de servidores back-end'
+title: "Implementar un reflejo de SQL para alta disponibilidad de servidores back-end"
 TOCTitle: Implementar un reflejo de SQL para alta disponibilidad de servidores back-end
 ms:assetid: 70224520-b5c8-4940-a08e-7fb9b1adde8d
 ms:mtpsurl: https://technet.microsoft.com/es-es/library/JJ204992(v=OCS.15)
@@ -58,7 +58,7 @@ Con el reflejo de SQL, puede configurar la topología de creación de reflejos a
 
 
 > [!NOTE]
-> Hay que crear un recurso compartido de archivos en el que puedan escribirse los archivos reflejados, y el servicio en el que se ejecutan SQL Server y SQL Agent necesita acceso de lectura y escritura. Si el servicio de SQL Server se ejecuta en el contexto de servicio de red, puede agregar &lt;Domain&gt;\&lt;SQLSERVERNAME&gt;$ de los servidores SQL Server principal y reflejado a los permisos de recurso compartido. El $ es importante para identificar si se trata de una cuenta de equipo.
+> Hay que crear un recurso compartido de archivos en el que puedan escribirse los archivos reflejados, y el servicio en el que se ejecutan SQL Server y SQL Agent necesita acceso de lectura y escritura. Si el servicio de SQL Server se ejecuta en el contexto de servicio de red, puede agregar &lt;Domain&gt;\\&lt;SQLSERVERNAME&gt;$ de los servidores SQL Server principal y reflejado a los permisos de recurso compartido. El $ es importante para identificar si se trata de una cuenta de equipo.
 
 
 

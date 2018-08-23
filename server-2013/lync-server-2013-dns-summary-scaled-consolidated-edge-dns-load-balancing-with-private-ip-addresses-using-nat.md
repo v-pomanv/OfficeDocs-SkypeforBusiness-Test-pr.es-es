@@ -1,5 +1,5 @@
 ﻿---
-title: 'Lync Server 2013: Resumen de DNS - Topologías perimetrales consolidadas escaladas, equilibrio de carga DNS con direcciones IP privadas con NAT'
+title: "Resumen DNS: Topol. perim. consol., equilib. carga DNS con IP privadas NAT"
 TOCTitle: Resumen de DNS - Topologías perimetrales consolidadas escaladas, equilibrio de carga DNS con direcciones IP privadas con NAT
 ms:assetid: 11bc7b84-91cf-48f9-ad0e-06ad30b46a2e
 ms:mtpsurl: https://technet.microsoft.com/es-es/library/Gg398201(v=OCS.15)
@@ -155,7 +155,7 @@ Puede configurar dos adaptadores de red en cada servidor perimetral de la siguie
 <td><p>Interfaz perimetral externa de acceso SIP Requerida para detección automática DNS de su federación a otros posibles socios de federación, que se conocen como “Dominios SIP permitidos” o &quot;federación ampliada&quot; en versiones anteriores). Repita según sea necesario para todos los dominios SIP con usuarios habilitados para Lync</p>
 <div>
 
-> [!WARNING]  
+> [!IMPORTANT]  
 > Este registro de SRV es necesario para fines de movilidad y para el centro de enrutamiento de notificaciones de inserción
 
 

@@ -1,6 +1,6 @@
 ﻿---
-title: Primeros pasos antes de empezar a migrar usuarios de Lync Online a Lync local
-TOCTitle: Primeros pasos antes de empezar a migrar usuarios de Lync Online a Lync local
+title: "1ères étapes av. début migration des util. de Lync Online vers Lync local"
+TOCTitle: "1ères étapes av. début migration des util. de Lync Online vers Lync local"
 ms:assetid: 98245b04-ded4-4186-8da3-ba1c554b5c39
 ms:mtpsurl: https://technet.microsoft.com/es-es/library/Dn689118(v=OCS.15)
 ms:contentKeyID: 62247381
@@ -37,9 +37,9 @@ Antes de empezar a mover usuarios de Lync Online a su entorno local, compruebe q
     ```
     Import-PSSession $CSSession -AllowClobber
     ```
-    Si desea más información sobre cómo establecer una sesión PowerShell remota con Skype Empresarial Online, consulte [Conectar con Lync Online mediante Windows PowerShell](https://docs.microsoft.com/en-us/SkypeForBusiness/set-up-your-computer-for-windows-powershell/set-up-your-computer-for-windows-powershell).
-    
-    Si desea más información sobre el uso del módulo de PowerShell Skype Empresarial Online, consulte [Administrar Lync Online con Windows PowerShell](https://docs.microsoft.com/en-us/SkypeForBusiness/set-up-your-computer-for-windows-powershell/set-up-your-computer-for-windows-powershell).
+  Si desea más información sobre cómo establecer una sesión PowerShell remota con Skype Empresarial Online, consulte [Conectar con Lync Online mediante Windows PowerShell](https://docs.microsoft.com/en-us/SkypeForBusiness/set-up-your-computer-for-windows-powershell/set-up-your-computer-for-windows-powershell).
+  
+  Si desea más información sobre el uso del módulo de PowerShell Skype Empresarial Online, consulte [Administrar Lync Online con Windows PowerShell](https://docs.microsoft.com/en-us/SkypeForBusiness/set-up-your-computer-for-windows-powershell/set-up-your-computer-for-windows-powershell).
 
   - Su Lync Online debe estar configurado para un espacio de direcciones SIP compartido. Para hacerlo, primero inicie una sesión de PowerShell remota con Lync Online. A continuación, ejecute el cmdlet siguiente:
     

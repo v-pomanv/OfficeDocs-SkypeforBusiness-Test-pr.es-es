@@ -1,6 +1,6 @@
 ﻿---
-title: Planeación de federación de Lync Server y Office Communications Server
-TOCTitle: Planeación de federación de Lync Server y Office Communications Server
+title: "Planif. pour la fédération de Lync Server et Office Communications Server"
+TOCTitle: "Planif. pour la fédération de Lync Server et Office Communications Server"
 ms:assetid: c9eaf06b-054f-41a4-ad0c-499400d6c4c7
 ms:mtpsurl: https://technet.microsoft.com/es-es/library/JJ205335(v=OCS.15)
 ms:contentKeyID: 48276674
@@ -48,7 +48,7 @@ La habilitación de la federación entre Microsoft Lync Server 2013, Lync Server
       -   
         Para la configuración manual de la federación, debe tener un nombre de dominio completo (FQDN) de Servidor perimetral y un nombre de dominio, o un nombre de dominio en línea del socio, que se escribe en Panel de control de Lync Server, **Federación y acceso externo**, **Dominios federados SIP**. Cree una**nueva** directiva o **edite** una directiva actual para permitir o bloquear dominios por FQDN.
         
-        > [!IMPORTANT]  
+        > [!WARNING]  
         > La configuración manual de Servidor perimetral del socio de federación puede generar errores en caso de que el socio cambie la dirección IP de su Servidor perimetral.
         
         
